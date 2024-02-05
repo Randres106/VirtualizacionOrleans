@@ -1,0 +1,36 @@
+{
+  "version": 2,
+  "dgSpecHash": "igiCfUx/Q3v67zoa7uQorkW5FnEAuNJ18m7TlKmwUTCuexMM+Ev+BOXXZgk7mEjMXPHyCE/2SXp3M8GVmSeUuA==",
+  "success": false,
+  "projectFilePath": "C:\\Users\\Alvarez\\Desktop\\1er Semerstre\\samples-main\\samples-main\\orleans\\HelloWorld\\HelloWorld.csproj",
+  "expectedPackageFiles": [],
+  "logs": [
+    {
+      "code": "NU1101",
+      "level": "Error",
+      "message": "Unable to find package Microsoft.Extensions.Hosting. No packages exist with this id in source(s): Microsoft Visual Studio Offline Packages",
+      "libraryId": "Microsoft.Extensions.Hosting",
+      "targetGraphs": [
+        "net7.0"
+      ]
+    },
+    {
+      "code": "NU1101",
+      "level": "Error",
+      "message": "Unable to find package Microsoft.Extensions.DependencyInjection. No packages exist with this id in source(s): Microsoft Visual Studio Offline Packages",
+      "libraryId": "Microsoft.Extensions.DependencyInjection",
+      "targetGraphs": [
+        "net7.0"
+      ]
+    },
+    {
+      "code": "NU1101",
+      "level": "Error",
+      "message": "Unable to find package Microsoft.Orleans.Server. No packages exist with this id in source(s): Microsoft Visual Studio Offline Packages",
+      "libraryId": "Microsoft.Orleans.Server",
+      "targetGraphs": [
+        "net7.0"
+      ]
+    }
+  ]
+}
